@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>折腾 on chuan</title>
+    <link>https://immmmm.com/posts/coding/</link>
+    <description>Recent content in 折腾 on chuan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 04 Feb 2023 22:51:55 +0800</lastBuildDate><atom:link href="https://immmmm.com/posts/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memos API 非官方不完全说明</title>
+      <link>https://immmmm.com/memos-api-description/</link>
+      <pubDate>Sat, 04 Feb 2023 22:51:55 +0800</pubDate>
+      
+      <guid>https://immmmm.com/memos-api-description/</guid>
+      <description>&lt;p&gt;官方源码见：&lt;a href=&#34;https://github.com/usememos/memos/tree/main/server&#34; target=&#34;_blank&#34; rel=&#34;noopener nofollow noreferrer&#34; &gt;https://github.com/usememos/memos/tree/main/server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;memos-条数&#34;&gt;Memos 条数&lt;/h3&gt;
+&lt;p&gt;路径：&lt;code&gt;api/memo/amount&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;总条数&#34;&gt;总条数&lt;/h4&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;https://me.edui.fun/api/memo/amount
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;结果：&lt;/p&gt;
+
+
+    &lt;pre style=&#34;max-height:15rem;overflow-x:scroll;overflow-wrap: anywhere;white-space: break-spaces;padding:10px;&#34;&gt;&lt;code&gt;{&#34;data&#34;:206}&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;指定用户&#34;&gt;指定用户&lt;/h4&gt;
+&lt;p&gt;参数：&lt;code&gt;userId&lt;/code&gt; 或 &lt;code&gt;openId&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;早期个人的ID为 &lt;code&gt;101&lt;/code&gt; ，现在新创建默认为 &lt;code&gt;1&lt;/code&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;https://me.edui.fun/api/memo/amount?userId=102
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;结果：&lt;/p&gt;
+
+
+    &lt;pre style=&#34;max-height:15rem;overflow-x:scroll;overflow-wrap: anywhere;white-space: break-spaces;padding:10px;&#34;&gt;&lt;code&gt;{&#34;data&#34;:0}&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo 「近期」短代码（基于 Memos Docker）</title>
+      <link>https://immmmm.com/hugo-shortcodes-recently-by-memos/</link>
+      <pubDate>Fri, 03 Feb 2023 11:07:42 +0800</pubDate>
+      
+      <guid>https://immmmm.com/hugo-shortcodes-recently-by-memos/</guid>
+      <description>&lt;h3 id=&#34;近期光影&#34;&gt;近期光影&lt;/h3&gt;
+&lt;p&gt;此想法原创为 @Leonus 同学：&lt;a href=&#34;https://blog.leonus.cn/2023/photos.html&#34; target=&#34;_blank&#34; rel=&#34;noopener nofollow noreferrer&#34; &gt;《基于memos的动态相册》&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;仔细查阅发现调取一条带 &lt;code&gt;#相册&lt;/code&gt; 标签的 Memos 内容，并正则匹配内容中的 md 格式图片，再前端解析。个人兼容拓展了一下，解析多条可外链和 Memos 内置资源库上传的图片显示。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo 「近期」短代码（基于 Doumark Actions）</title>
+      <link>https://immmmm.com/hugo-shortcodes-recently-by-douban/</link>
+      <pubDate>Thu, 02 Feb 2023 13:07:42 +0800</pubDate>
+      
+      <guid>https://immmmm.com/hugo-shortcodes-recently-by-douban/</guid>
+      <description>&lt;p&gt;观影和阅读记录页面，无论用什么博客程序，总会想办法找 API 造轮子来实现。目前使用的是 &lt;a href=&#34;https://github.com/lizheming/doumark-action&#34; target=&#34;_blank&#34; rel=&#34;noopener nofollow noreferrer&#34; &gt;Douban sync for GitHub Actions&lt;/a&gt; 方法，它会自动把“豆瓣观影/阅读/音乐记录同步”存为本地文件，安逸！&lt;/p&gt;
+&lt;p&gt;既然本地已经有一份自己的观影和阅读数据文件 &lt;code&gt;data/douban/movie.csv&lt;/code&gt; 和  &lt;code&gt;data/douban/book.csv&lt;/code&gt; ，除了做成两个页面，这些数据还能怎么用呢？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo 游戏卡片短代码</title>
+      <link>https://immmmm.com/hugo-shortcodes-game/</link>
+      <pubDate>Wed, 01 Feb 2023 09:51:09 +0800</pubDate>
+      
+      <guid>https://immmmm.com/hugo-shortcodes-game/</guid>
+      <description>&lt;div class=&#34;post-preview game movie&#34;&gt;
+    &lt;img referrer-policy=&#34;no-referrer&#34; loading=&#34;lazy&#34; class=&#34;post-preview--image&#34; src=&#34;https://alioss.yystv.cn/games/dc0e0df412d7d39d7e76e681959b0199.jpg&#34; /&gt;
+    &lt;div class=&#34;post-preview--meta&#34;&gt;
+        &lt;div class=&#34;post-preview--middle&#34;&gt;
+            &lt;h4 class=&#34;post-preview--title&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.yystv.cn/g/36&#34;&gt;塞尔达传说：旷野之息&lt;/a&gt;&lt;/h4&gt;
+            &lt;div class=&#34;rating&#34;&gt;
+                &lt;div class=&#34;rating-star allstar10&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;rating-average&#34;&gt;9.7&lt;/div&gt;
+                &lt;div class=&#34;release-time&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;time class=&#34;post-preview--date&#34;&gt;
+                发售时间: 2017-03-03 / 产商：   任天堂  
+                &lt;span class=&#34;post-preview--tags&#34;&gt;
+                    
+                    &lt;span class=&#34;post-preview--tag&#34;&gt;冒险&lt;/span&gt;
+                    
+                    &lt;span class=&#34;post-preview--tag&#34;&gt;动作&lt;/span&gt;
+                    
+                &lt;/span&gt;
+            &lt;/time&gt;
+            &lt;section style=&#34;max-height: 75px; overflow: hidden&#34; class=&#34;post-preview--excerpt&#34;&gt;以广阔的世界为舞台，无论去哪里、做什么，冒险的一切由你决定。 狩猎野生动物过活？ 去消灭魔物？ 逛尽各处景点？ 奔跑、游泳、滑翔、攀登，能在广阔无垠的世界中享受自由自在的冒险。 Nintendo Switch的话，可以在家里的电视上仔细游玩后继续外出游玩，就连游戏方式都自由自在。
+
+【故事大纲】
+
+被称为大灾厄的灾害发生了，海拉鲁王国被灭亡了……
+
+100年后，主角林克从地下遗迹的长眠中苏醒，在不可思议的声音引导下踏上大地。&lt;/section&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;效果如上 ⬆️&lt;/p&gt;
+&lt;p&gt;轮子来自于 @JoeZhao 同学的 &lt;a href=&#34;https://fun2ex.com/posts/game-info-show-api/&#34; target=&#34;_blank&#34; rel=&#34;noopener nofollow noreferrer&#34; &gt;《在 hugo 中插入游戏信息卡片》&lt;/a&gt; ，👍&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo 豆瓣短代码</title>
+      <link>https://immmmm.com/hugo-shortcodes-douban/</link>
+      <pubDate>Mon, 23 Jan 2023 21:52:44 +0800</pubDate>
+      
+      <guid>https://immmmm.com/hugo-shortcodes-douban/</guid>
+      <description>&lt;div class=&#34;post-preview book&#34;&gt;&lt;div class=&#34;post-preview--meta&#34;&gt;&lt;div class=&#34;post-preview--middle&#34;&gt;&lt;h4 class=&#34;post-preview--title&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://book.douban.com/subject/35496106/&#34;&gt;《一日三秋》&lt;/a&gt;&lt;/h4&gt;&lt;div class=&#34;rating&#34;&gt;&lt;div class=&#34;rating-star allstar8&#34;&gt;&lt;/div&gt;&lt;div class=&#34;rating-average&#34;&gt;8.4&lt;/div&gt;&lt;/div&gt;&lt;time class=&#34;post-preview--date&#34;&gt;作者：刘震云 / 花城出版社 / 2021-7&lt;/time&gt;&lt;section style=&#34;max-height:75px;overflow:hidden;&#34; class=&#34;post-preview--excerpt&#34;&gt;刘震云2021重磅新作，人间多少事，两三笑话中
+【编辑推荐】
+★《一日三秋》是当代著名作家刘震云的现实魔幻主义新作，《一句顶一万句》的升级版，从百年延宕到千年求索。
+★从《一地鸡毛》中的一斤豆腐到《一日三秋》中的一把韭菜，我们走过三十年，心态却如同经历了三千年。
+★神界鬼界 画里画外 戏里戏外 梦里梦外 故乡他乡 历史当下——“一日三秋”不止于时间体验，更是六重矛盾中的空间体验。
+★《一日三秋》是刘震云对故乡、对人生的多维反思，以笑话结构全书，以冷幽默消解严峻。
+★在人与故乡渐行渐远的年代，故乡成为一个遥远的记忆符号，然而它对人的影响却是连绵不绝的。刘震云以其独特的观察和幽默风格，写出了人类本质的命运。
+【内容介绍】
+小说《一日三秋》引用民间“花二娘”的传说，以想象的故事描述“我”记忆中的六叔生前所画的画作，探讨延津人幽默的本质。
+从两米见方的剧团人物群像素描中挑出陈长杰、李延生、樱桃，围绕几位主人公身边出现的人物，有开车的、扫大街的、开饭馆的，串联起几个家庭的人生经历和故事，把世人被忘却的情感和心事复刻出来。后引出寻常父子二人遍尝生活辛酸后对人生至理的了悟，在不同时间和地点悟出：一个重要的的瞬间，在人生中犹如一日三秋，但这瞬间永不再来。
+小说充满了黑色幽默，世俗生活所包含的哲理，及打破日常生活壁垒的想象力。刘震云写出现实与想象中的人性、土地、命运。既是幽默，也是讽刺；既是魔幻，也是现实。
+&lt;/section&gt;&lt;/div&gt;&lt;/div&gt;&lt;img referrer-policy=&#34;no-referrer&#34; loading=&#34;lazy&#34; class=&#34;post-preview--image&#34; src=&#34;https://img2.doubanio.com/view/subject/l/public/s33946803.jpg&#34;&gt;&lt;/div&gt;
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        &lt;div class=&#34;post-preview movie&#34;&gt;&lt;img referrer-policy=&#34;no-referrer&#34; loading=&#34;lazy&#34; class=&#34;post-preview--image&#34; src=&#34;https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885944827.jpg&#34;&gt;&lt;div class=&#34;post-preview--meta&#34;&gt;&lt;div class=&#34;post-preview--middle&#34;&gt;&lt;h4 class=&#34;post-preview--title&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://movie.douban.com/subject/35267208/&#34;&gt;流浪地球2&lt;/a&gt;&lt;/h4&gt;&lt;div class=&#34;rating&#34;&gt;&lt;div class=&#34;rating-star allstar8&#34;&gt;&lt;/div&gt;&lt;div class=&#34;rating-average&#34;&gt;8.2&lt;/div&gt;&lt;/div&gt;&lt;time class=&#34;post-preview--date&#34;&gt;导演：郭帆 / 片长：173分钟 / 类型：科幻 / 冒险 / 灾难 / 2023&lt;/time&gt;&lt;section style=&#34;max-height:75px;overflow:hidden;&#34; class=&#34;post-preview--excerpt&#34;&gt;太阳即将毁灭，人类在地球表面建造出巨大的推进器，寻找新的家园。然而宇宙之路危机四伏，为了拯救地球，流浪地球时代的年轻人再次挺身而出，展开争分夺秒的生死之战。&lt;/section&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+    
+
+&lt;p&gt;效果如上 ⬆️&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

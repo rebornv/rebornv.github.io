@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <generator uri="https://gohugo.io/" version="0.110.0">Hugo</generator><title type="html"><![CDATA[chuan]]></title>
+    
+    
+    
+            <link href="https://immmmm.com/atom.xml" rel="self" type="application/rss+xml" title="atom" />
+            <link href="https://immmmm.com/" rel="alternate" type="text/html" title="HTML" />
+            <link href="https://immmmm.com/index.json" rel="alternate" type="application/json" title="JSON" />
+    <updated>2023-02-06T00:28:43+08:00</updated>
+    
+    
+    
+    
+        <id>https://immmmm.com/atom.xml</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[《心中有数》阅读笔记]]></title>
+            <link href="https://immmmm.com/book-isbn-9787115578044/" rel="alternate" type="text/html" />
+            
+                <id>https://immmmm.com/book-isbn-9787115578044/</id>
+            
+            
+            <published>2023-02-05T17:24:30+08:00</published>
+            <updated>2023-02-05T17:24:30+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[<div class="post-preview book"><div class="post-preview--meta"><div class="post-preview--middle"><h4 class="post-preview--title"><a target="_blank" href="https://book.douban.com/subject/35749693/">《心中有数》</a></h4><div class="rating"><div class="rating-star allstar8"></div><div class="rating-average">8.1</div></div><time class="post-preview--date">作者：刘雪峰 / 人民邮电出版社 / 2022-6</time><section style="max-height:75px;overflow:hidden;" class="post-preview--excerpt">作为数学类普及读物光荣入选2022年度5月“中国好书”榜单，被“人民日报”等众多权威媒体转发推荐，同时作为科学·新知类图书上榜2022年豆瓣年度读书榜单。
+◎《心中有数：生活中的数学思维》是一本有趣的数学思维书，书中用生活中的案例与数学公式相结合，致力于教会读者如何用严谨的理工科思维，来看待当前世界中的各种现象，帮助读者了解数学思维、掌握数学思维、并将其运用到生活之 中。
+★
+你以为无解的方程组真的无解吗？
+维特根斯坦说：“数学是各式各样的证 明技巧。”
+如何用数学重新求证我们的人生？
+小到电饭锅为什么不会糊底，筷子夹不起来豌豆丁怎么办；大到如何更好地与他人相处，如何选择自己的职业。这些看似与数学无关的问题其实都蕴含着深刻的数学思维。通过理解这些思维，你能够给生活中的问题找到更好的解决方案。
+★
+如果你是一名从没接触过这些数学公式的文科生，读完这本书，你不再会被那些看似“劝退”的数学公式“吓倒”，而是会直接透过这些公式理解它们背后闪耀的理性思维。
+如果你是一名对这些数学公式一知半解的理科生，通过这本书，你可以立刻理解这些公式，它们不再仅是书本上的一面之缘，而会成为烙印在你大脑里的思维方式。
+★
+勤能补拙的大数定律，大道至简的稀疏概念，似是而非的条件独立，精益求精的数值解法，中庸之道的最小二乘法……
+数学公式和算法背后的智慧帮助我们更好地看清这个世界，并在你遇到问题时向你提供更科学的视角，帮助你作出更好的决策和行为。
+很多事情的最终结果是我们不能预见的，但是，这个结果发生的概率是我们可以靠努力达成的。
+《心中有数》教你像电脑的处理器一样，快速、深层地剖析事物的“利与弊”，在接受不完美的前提下，通过数学思维权衡多方的利益，找到最佳的解题点。
+★
+人生其实就是一个不断寻找最优解的过程，愿你“心中有数”，行之有方。
+</section></div></div><img referrer-policy="no-referrer" loading="lazy" class="post-preview--image" src="https://img2.doubanio.com/view/subject/l/public/s34109032.jpg"></div>
+    
+
+
+
+<h3 id="思维篇-用理性思维看待世界">思维篇 用理性思维看待世界</h3>
+<blockquote>
+<p>“谋事在人”指的是我们通过努力，可以提高成功的概率；而“成事在天”则指的是既然以概率作为衡量标准，那么即使我们做得再好，也不能保证成功。</p>
+</blockquote>
+<blockquote>
+<p>使用概率的世界观的人持有的人生态度：平静接受现实，努力改变概率。</p>
+</blockquote>
+<p>科学鸡汤，果然喝得心服口服！</p>
+<blockquote>
+<p>如果你是个网球运动员，那么与其请三位网球教练，就不如请一位网球教练、一位健身教练和一位营养师。因为，任何人都可能会有认知盲点，而站在不同角度的人在一起讨论后达成的共识，往往最接近真相。这就是所谓的多样性红利。</p>
+</blockquote>
+<blockquote>
+<p>方程组的本质：每条直线都代表一个观察的角度，而直线的交点就是站在多个角度进行观察后达成的共识。</p>
+</blockquote>
+<blockquote>
+<p>病态方程组中对应直线形成的夹角很小。这些直线交点的位置极易因某条直线的细微变化而产生极大变化。</p>
+</blockquote>
+<p>众多专家们的决策有时真不如咱们的民间智慧。</p>
+<blockquote>
+<p>频繁的小确幸，能比偶尔的大幸福带来更多幸福感。这也可以解释为什么很多中了彩票的人或所谓的拼命奋斗后终于成功的人，其实在生活中并不感到幸福，因为他们已缺乏体会“小确幸”的感知力。</p>
+</blockquote>
+<blockquote>
+<p>古罗马斯多葛学派哲学家爱比克泰德（Epictetus）曾说：“人并不是被事物本身影响，而是被他们自己对事物的看法左右。”</p>
+</blockquote>
+<blockquote>
+<p>叔本华也说过类似的话：“事物对于我们而言所具有的意义，让我们感到幸福或者不幸，这不取决于它们本来的面貌，而是取决于我们如何看待它们。”</p>
+</blockquote>
+<p>世界是客观存在的，但也是主观存在的。小草因为“讨厌”绿色，反射了绿色波段，可外界看到的它们就是它们讨厌的绿色。</p>
+<p>幸不幸福，快不快乐，很多时候如同《叙事改变人生》书名，不单改变人生，还改变着人类。</p>
+<blockquote>
+<p>在大部分情况下，“利与弊”并不绝对。更准确地说，没有利弊，只有特点。某个特点是利还是弊，要根据情况判断：同样一个特点，用在某种情况中是利，用在另一种情况中可能就是弊。</p>
+</blockquote>
+<p>参差百态本是幸福之源，整齐划一、方正砖头一堆，何苦何苦。</p>
+<blockquote>
+<p>傅里叶级数的公式告诉我们如何计算每个正弦波前面的系数。对于任意一个信号，我们只需要知道这些正弦波前面的系数a1，a2，就可以完全重现这个信号。</p>
+</blockquote>
+<blockquote>
+<p>鸟群中的每只鸟只要遵守如下三条规则飞行，就可以让鸟群整体展现出复杂的活动：（1）避免与自身附近的其他成员碰撞；（2）与附近其他成员的飞行方向大体保持一致；（3）靠近其他鸟，不要落单。</p>
+</blockquote>
+<p>看小米照片打印机上色，糊糊黄色一层、糊糊红色一层、糊糊绿色一层，最后塑封一层，清晰度还可以，神奇啊！</p>
+<blockquote>
+<p>两个事件看似相关，实则关于另外一个事件条件独立的情况非常普遍。如果意识不到这一点，就很容易犯把“相关性”当成“因果性”的错误。</p>
+</blockquote>
+<blockquote>
+<p>这是美国心理学家阿尔伯特·艾利斯（Albert Ellis）提出的一种情绪调节法。这里的A代表激发事件（Activating event），B代表信念（Belief），C代表结果（Consequence）。激发事件A是引发情绪和结果C的间接原因，而引起结果C的直接原因则是个体基于对激发事件A的认知和评价所产生的信念B。</p>
+</blockquote>
+<blockquote>
+<p>如果在家长的认知中，成绩并不是最重要的，成绩背后反映的问题才是关键，那么不管孩子的成绩是好是坏，家长都不会生气，而会冷静地和孩子分析成绩体现的问题。</p>
+</blockquote>
+<p>个人诊断，面对臭小子糟糕成绩生气的原因，主要是让自己丢脸了，还让自己感觉到教育的挫败，以及之后教育方法方法转变的匮乏。</p>
+<p>说白了，就是没招了，只有泄怒气。</p>
+<p>所以，看看教育类的书，看到教育专家也差不多，心平、气和，至少问题矛盾解决了一大半。</p>
+<h3 id="方法篇-解决难题的策略和技巧">方法篇 解决难题的策略和技巧</h3>
+<blockquote>
+<p>软磁铁有一个特性，它在温度达到103℃左右时会失去磁性。只要电饭锅里还有水，电饭锅的温度就不会高于100℃。一旦电饭锅里的水煮干了，温度就会继续上升。当锅底达到103℃时，软磁铁失去磁力，切断电源。</p>
+</blockquote>
+<blockquote>
+<p>很多自动取票机把放身份证的位置设计成倾斜的，人们把身份证放在相应位置进行验证时，需要用手一直按住身份证，一旦验证完成，也就会自然而然地把身份证带走了。</p>
+</blockquote>
+<blockquote>
+<p>发明飞机的过程就是如此：我们首先观察到鸟的飞行，理解其原理，并提出了空气动力学。摆脱了振翅的限制，设计出有固定机翼的飞机。</p>
+</blockquote>
+<p>知道和理解，差别在因为所以。</p>
+<blockquote>
+<p>第二种模式是稍微有了一个初步可行的想法就开始写，写的时候不打磨语法，用最快的时间写出一个初稿。写完给周围的人看，让他们提意见，并且针对这些意见改进想法、用实验验证想法并且修改文章。这样经过多轮迭代完成对文章的打磨。</p>
+</blockquote>
+<p>Github 的伟大之处。</p>
+<h3 id="学习篇-如何学习和表达">学习篇 如何学习和表达</h3>
+<blockquote>
+<p>主动对问题进行预测，从差距中学习。</p>
+</blockquote>
+<p>看电视剧、小说，或看学术论文也好，这是个好法子！</p>
+<blockquote>
+<p>为什么现在教育需要“德、智、体、美、劳”全面发展。这五个目标之间相互关联，它们在底层有相通之处（例如都需要坚毅的性格，良好的习惯，等等）。由于多个目标之间存在相关性，用多个目标训练出来的孩子，通常都会比用单个目标训练出来的孩子更优秀。举个例子，孩子因缺乏锻炼而身体不好，这肯定会耽误他的学习。此外，如果孩子没有正确的三观，那么他的学习动力也会不足。</p>
+</blockquote>
+<p>至少至少，孩子不会因为学习不好而走上绝路。</p>
+<blockquote>
+<p>有些人的方式是：找到一本针对该语言的图书，从头到尾地读一遍，然后做书后习题，等到自己对该语言烂熟于胸后，开始根据任务来编写这个程序。而另一些人的方式是：先大致了解该语言的语法，然后在网上找到和任务功能相似的代码，开始读这个代码，并在此基础上编写、调试，遇到不懂的地方，直接去查该语言的语法。</p>
+</blockquote>
+<blockquote>
+<p>这就是两种不同的学习方法论。这个例子中，第一种完成方式总结起来是“先学习、再实践”，第二种完成方式则是“在实践中学习”。一个优秀的程序员，通常都会选择第二种完成方式。</p>
+</blockquote>
+<p>当下2022课程标准发布，专门有一大块是综合性实践，要求以主题式、项目化，跨学科探究，静候范式。</p>
+<blockquote>
+<p>清晰表达一件事情的方式是下面这样的：先说重要的信息，再逐步添加细节。这种方式也可以被称为“由主到次的增量式表达”。</p>
+</blockquote>
+<blockquote>
+<p>英文通常按照事情的重要程度描述问题，例如：
+“I saved a boy who felt into water when I was walkingalone on the street this morning.”
+按语序直译是：“我救了一个落水儿童，当我在街上独自走路，今天早上。”</p>
+</blockquote>
+<p>语言是思维的外衣，中文表达：时间、地点、人物、事件。对何时何地何人的关注远远大于事件本身。</p>]]></content>
+            
+                 
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://immmmm.com/tags/%E8%82%B2%E4%BA%BA" term="%E8%82%B2%E4%BA%BA" label="育人" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[Memos API 非官方不完全说明]]></title>
+            <link href="https://immmmm.com/memos-api-description/" rel="alternate" type="text/html" />
+            
+                <id>https://immmmm.com/memos-api-description/</id>
+            
+            
+            <published>2023-02-04T22:51:55+08:00</published>
+            <updated>2023-02-04T22:51:55+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[<p>官方源码见：<a href="https://github.com/usememos/memos/tree/main/server" target="_blank" rel="noopener nofollow noreferrer" >https://github.com/usememos/memos/tree/main/server</a></p>
+<h3 id="memos-条数">Memos 条数</h3>
+<p>路径：<code>api/memo/amount</code></p>
+<h4 id="总条数">总条数</h4>
+<pre tabindex="0"><code>https://me.edui.fun/api/memo/amount
+</code></pre><p>结果：</p>
+
+
+    <pre style="max-height:15rem;overflow-x:scroll;overflow-wrap: anywhere;white-space: break-spaces;padding:10px;"><code>{"data":206}</code></pre>
+
+<h4 id="指定用户">指定用户</h4>
+<p>参数：<code>userId</code> 或 <code>openId</code></p>
+<p>早期个人的ID为 <code>101</code> ，现在新创建默认为 <code>1</code></p>
+<pre tabindex="0"><code>https://me.edui.fun/api/memo/amount?userId=102
+</code></pre><p>结果：</p>
+
+
+    <pre style="max-height:15rem;overflow-x:scroll;overflow-wrap: anywhere;white-space: break-spaces;padding:10px;"><code>{"data":0}</code></pre>
+
+<blockquote>
+<p>有了总条数，前端可以自行做分页加载处理。</p>
+</blockquote>
+<h3 id="时间戳列表">时间戳列表</h3>
+<p>路径：<code>api/memo/stats</code></p>
+<h4 id="指定用户必选">指定用户（必选）</h4>
+<p>参数：<code>creatorId</code></p>
+<pre tabindex="0"><code>https://me.edui.fun/api/memo/stats?creatorId=101
+</code></pre><p>结果：</p>
+
+
+    <pre style="max-height:15rem;overflow-x:scroll;overflow-wrap: anywhere;white-space: break-spaces;padding:10px;"><code>{"data":[1675608612,1675582029,1675508158,1675481879,1675411373,1675522109,1675347385,1675344357,1675344207,1675344101,1675343780,1675332070,1675323173,1675213812,1674814694,1674807923,1674802299,1674782417,1674653445,1674626656,1674398311,1674392665,1674375820,1675411369,1674284091,1674225387,1674214548,1674094470,1674097893,1673960056,1673699125,1673695175,1673660577,1673601115,1673440925,1673436728,1673353709,1673334779,1673328479,1673228828,1673080340,1673071967,1673069253,1672983314,1672907099,1672743140,1672731242,1672661847,1672560273,1672327741,1672285153,1672214072,1672210502,1672124895,1672051956,1672051590,1671955616,1671805540,1671804493,1671803816,1671955595,1671787141,1671786750,1671678859,1671626851,1671612683,1675411377,1671538198,1671537091,1671451440,1671326369,1671196643,1671170904,1670944183,1670760287,1670748244,1675411343,1670741581,1670732180,1670636957,1670455041,1670338791,1670249408,1670166775,1670155833,1670121251,1670116947,1670116881,1670048579,1670027806,1669992238,1669898424,1669732444,1669613187,1669554869,1669561704,1669528898,1669511231,1669475835,1669462804,1669428179,1669346560,1669300715,1669297138,1669291410,1669214256,1669202093,1669170555,1669034554,1669295815,1668930294,1668871211,1668865981,1668923312,1668689983,1668415056,1668317502,1668314270,1668260458,1668255375,1668175705,1668158978,1668140491,1668133743,1668308729,1668130905,1668118620,1668085610,1668078702,1667907937,1667879418,1667718108,1667645276,1667615615,1667313860,1667101955,1667006273,1675411264,1666787040,1666622272,1666487864,1666412487,1667102262,1666360118,1666359836,1666350921,1666192276,1666179748,1665965693,1665932582,1665924900,1665908416,1665905015,1665895392,1665889074,1665878863,1665849304,1665835205,1665816662,1665813006,1665808887,1665802951,1665719317,1665674157,1665651512,1665574952,1665542355,1665540169,1665501004,1665499550,1665408201,1665324386,1665241429,1665218306,1665154278,1665149075,1665147572,1665132938,1665108193,1665073242,1665063063,1665055014,1665053774,1665049356,1665048731,1664981401,1664962186,1664852645,1664638023,1664028948,1663480061,1663426595,1663426133,1663232747,1663202464,1663058709,1662815081,1662787812,1662786969,1662769821,1662729519,1662645930,1662641144,1662637019,1662467380,1662393607]}</code></pre>
+
+<blockquote>
+<p>做个格子图？</p>
+</blockquote>
+<h3 id="rss-输出接口">RSS 输出接口</h3>
+<p>路径：<code>/u/:id/rss.xml</code></p>
+<h3 id="memos-列表">Memos 列表</h3>
+<p>路径： <code>/memo</code> 或 <code>/memo/all</code></p>
+<p>前者需要指定参数 <code>creatorId</code></p>
+<h4 id="总列表">总列表</h4>
+<pre tabindex="0"><code>https://demo.usememos.com/api/memo?creatorId=101
+https://demo.usememos.com/api/memo/all
+</code></pre><p>结果：</p>
+<p>
+
+    <pre style="max-height:15rem;overflow-x:scroll;overflow-wrap: anywhere;white-space: break-spaces;padding:10px;"><code>{"data":[{"content":"**Bytebase** - An open source Database CI/CD for DevOps teams.\n![](https://star-history.com/bytebase.webp)\n🌐 [Source code](https://github.com/bytebase/bytebase)","createdTs":1675590598,"creator":{"createdTs":1675590598,"email":"","id":101,"nickname":"Demo Hero","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1675590598,"userSettingList":null,"username":"demohero"},"creatorId":101,"displayTs":1675590598,"id":1003,"pinned":true,"resourceList":[],"rowStatus":"NORMAL","updatedTs":1675590598,"visibility":"PUBLIC"}]}</code></pre>
+
+
+
+    <pre style="max-height:15rem;overflow-x:scroll;overflow-wrap: anywhere;white-space: break-spaces;padding:10px;"><code>{"data":[{"content":"**Bytebase** - An open source Database CI/CD for DevOps teams.\n![](https://star-history.com/bytebase.webp)\n🌐 [Source code](https://github.com/bytebase/bytebase)","createdTs":1675590598,"creator":{"createdTs":1675590598,"email":"","id":101,"nickname":"Demo Hero","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1675590598,"userSettingList":null,"username":"demohero"},"creatorId":101,"displayTs":1675590598,"id":1003,"pinned":true,"resourceList":[],"rowStatus":"NORMAL","updatedTs":1675590598,"visibility":"PUBLIC"},{"content":"三人行，必有我师焉！👨‍🏫","createdTs":1675590598,"creator":{"createdTs":1675590598,"email":"","id":102,"nickname":"Jack","openId":"","role":"USER","rowStatus":"NORMAL","updatedTs":1675590598,"userSettingList":null,"username":"jack"},"creatorId":102,"displayTs":1675590598,"id":1005,"pinned":false,"resourceList":[],"rowStatus":"NORMAL","updatedTs":1675590598,"visibility":"PUBLIC"}]}</code></pre>
+</p>
+<h4 id="指定标签">指定标签</h4>
+<p>参数：<code>tag</code></p>
+<pre tabindex="0"><code>https://me.edui.fun/api/memo?creatorId=101&amp;tag=相册
+https://me.edui.fun/api/memo/all?tag=相册
+</code></pre><p>结果：</p>
+<p>
+
+    <pre style="max-height:15rem;overflow-x:scroll;overflow-wrap: anywhere;white-space: break-spaces;padding:10px;"><code>{"data":[{"content":"#相册 \n```\n![2023-01-29 ](https://cn.bing.com/th?id=OHR.SessileOaks_EN-US1487454928_768x1280.jpg)\n![Bing](https://cn.bing.com/th?id=OHR.Umschreibung_EN-US4693850900_768x1280.jpg)\n![2023-01-29 Bing](https://cn.bing.com/th?id=OHR.InscriptionWall_EN-US1392173431_1280x768.jpg)\n![](https://cn.bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_1280x768.jpg)\n```","createdTs":1675352495,"creator":{"createdTs":1662377406,"email":"","id":101,"nickname":"林木木","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1672036850,"userSettingList":null,"username":"lmm214"},"creatorId":101,"displayTs":1675522109,"id":1369,"pinned":false,"resourceList":[],"rowStatus":"NORMAL","updatedTs":1675522109,"visibility":"PUBLIC"},{"content":"#相册 大上海之大！","createdTs":1675347385,"creator":{"createdTs":1662377406,"email":"","id":101,"nickname":"林木木","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1672036850,"userSettingList":null,"username":"lmm214"},"creatorId":101,"displayTs":1675347385,"id":1366,"pinned":false,"resourceList":[{"createdTs":1675347385,"creatorId":101,"externalLink":"","filename":"IMG_6526.jpg","id":173,"linkedMemoAmount":0,"size":280338,"type":"image/jpeg","updatedTs":1675347385}],"rowStatus":"NORMAL","updatedTs":1675347385,"visibility":"PUBLIC"},{"content":"#相册 惠山古镇特色小吃桂花糕","createdTs":1675344357,"creator":{"createdTs":1662377406,"email":"","id":101,"nickname":"林木木","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1672036850,"userSettingList":null,"username":"lmm214"},"creatorId":101,"displayTs":1675344357,"id":1365,"pinned":false,"resourceList":[{"createdTs":1675344357,"creatorId":101,"externalLink":"","filename":"IMG_6400.jpg","id":171,"linkedMemoAmount":0,"size":225647,"type":"image/jpeg","updatedTs":1675344357},{"createdTs":1675344357,"creatorId":101,"externalLink":"","filename":"IMG_6444_1.jpg","id":172,"linkedMemoAmount":0,"size":154961,"type":"image/jpeg","updatedTs":1675344357}],"rowStatus":"NORMAL","updatedTs":1675344357,"visibility":"PUBLIC"},{"content":"#相册 无锡南长街的夜","createdTs":1675344207,"creator":{"createdTs":1662377406,"email":"","id":101,"nickname":"林木木","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1672036850,"userSettingList":null,"username":"lmm214"},"creatorId":101,"displayTs":1675344207,"id":1364,"pinned":false,"resourceList":[{"createdTs":1675344207,"creatorId":101,"externalLink":"","filename":"IMG_2982_1.jpg","id":170,"linkedMemoAmount":0,"size":716299,"type":"image/jpeg","updatedTs":1675344207}],"rowStatus":"NORMAL","updatedTs":1675344207,"visibility":"PUBLIC"},{"content":"#相册 鼋头渚喂海鸥","createdTs":1675344101,"creator":{"createdTs":1662377406,"email":"","id":101,"nickname":"林木木","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1672036850,"userSettingList":null,"username":"lmm214"},"creatorId":101,"displayTs":1675344101,"id":1363,"pinned":false,"resourceList":[{"createdTs":1675344101,"creatorId":101,"externalLink":"","filename":"鼋头渚.jpg","id":169,"linkedMemoAmount":0,"size":169044,"type":"image/jpeg","updatedTs":1675344101}],"rowStatus":"NORMAL","updatedTs":1675344101,"visibility":"PUBLIC"},{"content":"#相册 折腾桌面","createdTs":1675343744,"creator":{"createdTs":1662377406,"email":"","id":101,"nickname":"林木木","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1672036850,"userSettingList":null,"username":"lmm214"},"creatorId":101,"displayTs":1675343780,"id":1362,"pinned":false,"resourceList":[{"createdTs":1675343744,"creatorId":101,"externalLink":"","filename":"zhuom.JPG","id":163,"linkedMemoAmount":0,"size":278839,"type":"image/jpeg","updatedTs":1675343780}],"rowStatus":"NORMAL","updatedTs":1675343780,"visibility":"PUBLIC"}]}</code></pre>
+
+
+
+    <pre style="max-height:15rem;overflow-x:scroll;overflow-wrap: anywhere;white-space: break-spaces;padding:10px;"><code>{"data":[{"content":"#相册 \n```\n![2023-01-29 ](https://cn.bing.com/th?id=OHR.SessileOaks_EN-US1487454928_768x1280.jpg)\n![Bing](https://cn.bing.com/th?id=OHR.Umschreibung_EN-US4693850900_768x1280.jpg)\n![2023-01-29 Bing](https://cn.bing.com/th?id=OHR.InscriptionWall_EN-US1392173431_1280x768.jpg)\n![](https://cn.bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_1280x768.jpg)\n```","createdTs":1675352495,"creator":{"createdTs":1662377406,"email":"","id":101,"nickname":"林木木","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1672036850,"userSettingList":null,"username":"lmm214"},"creatorId":101,"displayTs":1675522109,"id":1369,"pinned":false,"resourceList":[],"rowStatus":"NORMAL","updatedTs":1675522109,"visibility":"PUBLIC"},{"content":"#相册 大上海之大！","createdTs":1675347385,"creator":{"createdTs":1662377406,"email":"","id":101,"nickname":"林木木","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1672036850,"userSettingList":null,"username":"lmm214"},"creatorId":101,"displayTs":1675347385,"id":1366,"pinned":false,"resourceList":[{"createdTs":1675347385,"creatorId":101,"externalLink":"","filename":"IMG_6526.jpg","id":173,"linkedMemoAmount":0,"size":280338,"type":"image/jpeg","updatedTs":1675347385}],"rowStatus":"NORMAL","updatedTs":1675347385,"visibility":"PUBLIC"},{"content":"#相册 惠山古镇特色小吃桂花糕","createdTs":1675344357,"creator":{"createdTs":1662377406,"email":"","id":101,"nickname":"林木木","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1672036850,"userSettingList":null,"username":"lmm214"},"creatorId":101,"displayTs":1675344357,"id":1365,"pinned":false,"resourceList":[{"createdTs":1675344357,"creatorId":101,"externalLink":"","filename":"IMG_6400.jpg","id":171,"linkedMemoAmount":0,"size":225647,"type":"image/jpeg","updatedTs":1675344357},{"createdTs":1675344357,"creatorId":101,"externalLink":"","filename":"IMG_6444_1.jpg","id":172,"linkedMemoAmount":0,"size":154961,"type":"image/jpeg","updatedTs":1675344357}],"rowStatus":"NORMAL","updatedTs":1675344357,"visibility":"PUBLIC"},{"content":"#相册 无锡南长街的夜","createdTs":1675344207,"creator":{"createdTs":1662377406,"email":"","id":101,"nickname":"林木木","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1672036850,"userSettingList":null,"username":"lmm214"},"creatorId":101,"displayTs":1675344207,"id":1364,"pinned":false,"resourceList":[{"createdTs":1675344207,"creatorId":101,"externalLink":"","filename":"IMG_2982_1.jpg","id":170,"linkedMemoAmount":0,"size":716299,"type":"image/jpeg","updatedTs":1675344207}],"rowStatus":"NORMAL","updatedTs":1675344207,"visibility":"PUBLIC"},{"content":"#相册 鼋头渚喂海鸥","createdTs":1675344101,"creator":{"createdTs":1662377406,"email":"","id":101,"nickname":"林木木","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1672036850,"userSettingList":null,"username":"lmm214"},"creatorId":101,"displayTs":1675344101,"id":1363,"pinned":false,"resourceList":[{"createdTs":1675344101,"creatorId":101,"externalLink":"","filename":"鼋头渚.jpg","id":169,"linkedMemoAmount":0,"size":169044,"type":"image/jpeg","updatedTs":1675344101}],"rowStatus":"NORMAL","updatedTs":1675344101,"visibility":"PUBLIC"},{"content":"#相册 折腾桌面","createdTs":1675343744,"creator":{"createdTs":1662377406,"email":"","id":101,"nickname":"林木木","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1672036850,"userSettingList":null,"username":"lmm214"},"creatorId":101,"displayTs":1675343780,"id":1362,"pinned":false,"resourceList":[{"createdTs":1675343744,"creatorId":101,"externalLink":"","filename":"zhuom.JPG","id":163,"linkedMemoAmount":0,"size":278839,"type":"image/jpeg","updatedTs":1675343780}],"rowStatus":"NORMAL","updatedTs":1675343780,"visibility":"PUBLIC"}]}</code></pre>
+</p>
+<h4 id="指定条数">指定条数</h4>
+<p>参数：<code>limit</code></p>
+<pre tabindex="0"><code>https://me.edui.fun/api/memo?creatorId=101&amp;tag=相册&amp;limit=1
+https://me.edui.fun/api/memo/all?tag=相册&amp;limit=1
+</code></pre><p>结果：</p>
+
+
+    <pre style="max-height:15rem;overflow-x:scroll;overflow-wrap: anywhere;white-space: break-spaces;padding:10px;"><code>{"data":[{"content":"#相册 \n```\n![2023-01-29 ](https://cn.bing.com/th?id=OHR.SessileOaks_EN-US1487454928_768x1280.jpg)\n![Bing](https://cn.bing.com/th?id=OHR.Umschreibung_EN-US4693850900_768x1280.jpg)\n![2023-01-29 Bing](https://cn.bing.com/th?id=OHR.InscriptionWall_EN-US1392173431_1280x768.jpg)\n![](https://cn.bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_1280x768.jpg)\n```","createdTs":1675352495,"creator":{"createdTs":1662377406,"email":"","id":101,"nickname":"林木木","openId":"","role":"HOST","rowStatus":"NORMAL","updatedTs":1672036850,"userSettingList":null,"username":"lmm214"},"creatorId":101,"displayTs":1675522109,"id":1369,"pinned":false,"resourceList":[],"rowStatus":"NORMAL","updatedTs":1675522109,"visibility":"PUBLIC"}]}</code></pre>
+
+<h4 id="指定偏移">指定偏移</h4>
+<p>参数：<code>offset</code></p>
+<pre tabindex="0"><code>https://me.edui.fun/api/memo?creatorId=101&amp;tag=相册&amp;limit=1&amp;offset=2
+https://me.edui.fun/api/memo/all?tag=相册&amp;limit=1&amp;offset=2
+</code></pre><blockquote>
+<p>利用 <code>limit=1</code> 、 <code>offset</code> 和总条数之间随机数，可实现调取随机一条 Memos 。</p>
+</blockquote>
+<h4 id="调取部分-memos">调取部分 Memos</h4>
+<p>参数：<code>rowStatus</code></p>
+<pre tabindex="0"><code>https://me.edui.fun/api/memo?creatorId=101&amp;rowStatus=NORMAL
+</code></pre><p>加上 <code>rowStatus=NORMAL</code> 不用调取在归档里的 Memos 。</p>
+<h3 id="open-api">Open API</h3>
+<p>参数：<code>openId</code></p>
+<pre tabindex="0"><code>https://demo.usememos.com/api/memo?openId=4D878AD599A6CCACD52C56753A36C4C7
+</code></pre><blockquote>
+<p>此参数拥有最高权限，get、post 都可以。get 到的内容包括仅自己可见的内容。</p>
+</blockquote>
+<h4 id="个人-memos-总数">个人 Memos 总数</h4>
+<pre tabindex="0"><code>https://demo.usememos.com/api/memo/amount?openId=4D878AD599A6CCACD52C56753A36C4C7
+</code></pre><p>结果：</p>
+
+
+    <pre style="max-height:15rem;overflow-x:scroll;overflow-wrap: anywhere;white-space: break-spaces;padding:10px;"><code>{"data":13}</code></pre>
+
+<h3 id="个人标签列表">个人标签列表</h3>
+<p>路径：<code>api/tag</code></p>
+<pre tabindex="0"><code>https://demo.usememos.com/api/tag?openId=4D878AD599A6CCACD52C56753A36C4C7
+</code></pre><p>结果：</p>
+
+
+    <p style="text-align: center;"><small>远程获取内容失败，请检查 API 有效性。</small></p>
+
+<h3 id="内置资源列表">内置资源列表</h3>
+<p>路径：<code>api/resource</code></p>
+<pre tabindex="0"><code>https://demo.usememos.com/api/resource?openId=4D878AD599A6CCACD52C56753A36C4C7
+</code></pre><p>结果：</p>
+
+
+    <p style="text-align: center;"><small>远程获取内容失败，请检查 API 有效性。</small></p>
+
+<h4 id="资源链接格式">资源链接格式</h4>
+<p>网址+<code>o/r/</code>+<code>resourceId/</code>+<code>filename</code>，如：</p>
+<pre tabindex="0"><code>https://me.edui.fun/o/r/167/iShot_2023-01-22_16.22.45.png
+</code></pre><blockquote>
+<p>做个资源外链清单？</p>
+</blockquote>
+<h4 id="发-memos">发 Memos</h4>
+<pre tabindex="0"><code>POST https://demo.usememos.com/api/memo?openId=4D878AD599A6CCACD52C56753A36C4C7
+Content-type: application/json
+{
+  &#34;content&#34;: &#34;Hello #memos from https://demo.usememos.com&#34;,
+  &#34;visibility&#34;: &#34;PUBLIC&#34;,
+  &#34;resourceIdList&#34; : []
+}
+</code></pre><p>参数：<code>content</code></p>
+<p>参数：<code>visibility</code></p>
+<ul>
+<li>值 <code>PUBLIC</code>（公开） <code>PRIVATE</code>（仅自己） <code>PROTECTED</code>（登录可见）</li>
+</ul>
+<p>参数：<code>resourceIdList</code></p>
+<ul>
+<li>值是数组，上传图片之后的 resourceId。</li>
+</ul>]]></content>
+            
+                 
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://immmmm.com/tags/%E6%8A%98%E8%85%BE" term="%E6%8A%98%E8%85%BE" label="折腾" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[Hugo 「近期」短代码（基于 Memos Docker）]]></title>
+            <link href="https://immmmm.com/hugo-shortcodes-recently-by-memos/" rel="alternate" type="text/html" />
+            
+                <id>https://immmmm.com/hugo-shortcodes-recently-by-memos/</id>
+            
+            
+            <published>2023-02-03T11:07:42+08:00</published>
+            <updated>2023-02-03T11:07:42+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[<h3 id="近期光影">近期光影</h3>
+<p>此想法原创为 @Leonus 同学：<a href="https://blog.leonus.cn/2023/photos.html" target="_blank" rel="noopener nofollow noreferrer" >《基于memos的动态相册》</a></p>
+<p>仔细查阅发现调取一条带 <code>#相册</code> 标签的 Memos 内容，并正则匹配内容中的 md 格式图片，再前端解析。个人兼容拓展了一下，解析多条可外链和 Memos 内置资源库上传的图片显示。</p>
+<h4 id="效果演示">效果演示</h4>
+<div id="album"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    let limit = 8
+    var memoUrl = "https://me.edui.fun/"
+    var creatorId = 101
+    var galleryUrl = memoUrl+"api/memo?creatorId="+creatorId+"&rowStatus=NORMAL&limit="+limit+"&tag=相册"
+    let nowNum = 1;
+    fetch(galleryUrl).then(res => res.json()).then( resdata =>{
+        var result = '',resultAll="",data = resdata.data
+        for(var i=0;i < data.length;i++){
+            var galleryTitle = data[i].content.replace("#相册 ",'')
+            var imgs = galleryTitle.match(/\!\[(.*?)\s*(.*?)\]\((.*?)\)/g)
+            
+            if(imgs){
+              imgs.forEach(item => {
+                if(nowNum < limit ){
+                  nowNum ++
+                  let img = item.replace(/!\[.*?\]\((.*?)\)/g,'$1'),
+                      time, title, tmp = item.replace(/!\[(.*?)\]\(.*?\)/g,'$1');
+                  if (tmp.indexOf(' ') != -1) {
+                      time = tmp.split(' ')[0];
+                      title = tmp.split(' ')[1];
+                  } else title = tmp
+                  result += `<div class="memos-photo"><img class="photo-img" loading='lazy' decoding="async" src="${img}"></a>`;
+                  title ? result += `<span class="photo-title">${title}</span>` : '';
+                  time ? result += `<span class="photo-time">${time}</span>` : '';
+                  result += `</div>`;
+                }
+              });
+            }
+            
+            if(data[i].resourceList && data[i].resourceList.length > 0){
+              var resourceList = data[i].resourceList;
+              for(var j=0;j < resourceList.length;j++){
+                var galleryTime = new Date(resourceList[j].createdTs * 1000).toLocaleString()
+                var restype = resourceList[j].type.slice(0,5);
+                if(restype == 'image' && nowNum <= limit ){
+                    nowNum ++
+                    result += '<div class="memos-photo"><img class="photo-img" loading="lazy" decoding="async" src="'+memoUrl+'o/r/'+resourceList[j].id+'/'+resourceList[j].filename+'"/><span class="photo-title">'+galleryTitle+'</span><span class="photo-time">'+galleryTime+'</span></div>'
+                  
+                }
+              }
+            }
+        }
+        var galleryDom = document.querySelector('#album');
+        var galleryBefore = `<div class="memos-photo-wrapper">`
+        var galleryAfter = `</div>`
+        resultAll = galleryBefore + result + galleryAfter
+        galleryDom.innerHTML = resultAll
+        //相对时间
+        window.Lately && Lately.init({ target: '.photo-time'});
+    });
+});
+</script>
+
+<style>
+.memos-photo-wrapper {
+  grid-template-columns: repeat(4,minmax(0,1fr));
+  margin-top: .5rem;
+  display: grid;
+   width: 100%;
+  gap: .5rem;
+}
+.memos-photo{
+  position: relative;
+  overflow: hidden;
+  border-radius: .25rem;
+  height: 194px;
+}
+.memos-photo>img {
+  min-height: 100%;
+  width: auto;
+  min-width: 100%;
+  cursor: pointer;
+  -o-object-fit: cover;
+  object-fit: cover;
+  height: auto;
+  animation: fadeIn 1s;
+  transition: all .4s ease-in-out;
+}
+.memos-photo span.photo-title,.memos-photo span.photo-time{background: rgba(0, 0, 0, 0.3);padding:0px 8px;font-size:0.9rem;color: #fff;display:none;animation: fadeIn 1s;}
+.memos-photo span.photo-title{position:absolute;bottom:4px;left:4px;}
+.memos-photo span.photo-time{position:absolute;top:4px;left:4px;font-size:0.8rem;}
+.memos-photo:hover span.photo-title,.memos-photo:hover span.photo-time{display:block !important;}
+@keyframes fadeIn{
+	0% {opacity: 0;}
+   100% {opacity: 1;}
+}
+@media screen and (min-width:480px) and (max-width: 899px) {
+  .memos-photo-wrapper{
+    grid-template-columns: repeat(3,minmax(0,1fr));
+  }
+  .memos-photo{
+    height: 201px;
+  }
+}
+@media only screen and (max-width: 479px) {
+  .memos-photo-wrapper{
+    grid-template-columns: repeat(2,minmax(0,1fr));
+  }
+  .memos-photo{
+    height: 171px;
+  }
+}
+</style>
+
+<h4 id="主题集成">主题集成</h4>
+<ul>
+<li>把 <a href="https://github.com/lmm214/immmmm/blob/master/themes/hello-friend/layouts/shortcodes/album.html" target="_blank" rel="noopener nofollow noreferrer" >album.html</a> 另存为 html 修改第 5、6、7 行 <code>limit</code> <code>memoUrl</code> 网址和 <code>creatorId</code> 参数：</li>
+</ul>
+<pre tabindex="0"><code>let limit = 8
+var memoUrl = &#34;https://me.edui.fun/&#34;
+var creatorId = 101
+</code></pre><ul>
+<li>之后丢入主题 <code>/layouts/shortcodes/</code> 内；</li>
+<li>调用短代码如下：</li>
+</ul>
+<pre tabindex="0"><code>\{\{&lt; album &gt;\}\}
+</code></pre><h4 id="相册动态更新方式一">相册动态更新方式一</h4>
+<p><img loading='lazy' decoding="async" src="https://pic.edui.fun/images/2023/01/leonus_2023-01-29_20-03-25.png!webp" alt="leonus_2023-01-29_20-03-25"  /></p>
+<p>图片外链以 <code>日期+空格+标题</code> 命名方式前端会显示。</p>
+<pre tabindex="0"><code>#相册
+![2023-01-29 ](https://cn.bing.com/th?id=OHR.SessileOaks_EN-US1487454928_768x1280.jpg)
+![Bing](https://cn.bing.com/th?id=OHR.Umschreibung_EN-US4693850900_768x1280.jpg)
+![2023-01-29 Bing](https://cn.bing.com/th?id=OHR.InscriptionWall_EN-US1392173431_1280x768.jpg)
+![](https://cn.bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_1280x768.jpg)
+</code></pre><h4 id="相册动态更新方式二">相册动态更新方式二</h4>
+<p><img loading='lazy' decoding="async" src="https://pic.edui.fun/images/2023/01/album.png" alt="album"  /></p>
+<ul>
+<li>格式要求：打标签 <code>#相册</code>空格<code>相册图片名</code>；</li>
+<li>利用内置资源库上传单张或多张图片，即可。</li>
+</ul>
+<h3 id="近期-memos">近期 Memos</h3>
+<h4 id="效果演示-1">效果演示</h4>
+<div id="momos-ss"></div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+      var bbUrl = "https://me.edui.fun/api/memo?creatorId=101&rowStatus=NORMAL&limit=5"
+      fetch(bbUrl).then(res => res.json()).then( resdata =>{
+          var result = '',resultAll="",data = resdata.data
+          for(var i=0;i < data.length;i++){
+              var bbTime = new Date(data[i].createdTs * 1000).toLocaleString()
+              var bbCont = data[i].content
+              var newbbCont = bbCont.replace(/!\[.*?\]\((.*?)\)/g,' <a href="$1" target="_blank">🌅</a> ').replace(/\[(.*?)\]\((.*?)\)/g,' <a href="$2" target="_blank">$1 🔗</a> ')
+              result += `<li class="item"><span class="datetime">${bbTime}</span>： ${newbbCont}</li>`;
+          }
+          var bbDom = document.querySelector('#momos-ss');
+          var bbBefore = `<div class="momos-sswrap"><ul class="momos-sslist">`
+          var bbAfter = `</ul></div>`
+          resultAll = bbBefore + result + bbAfter
+          bbDom.innerHTML = resultAll;
+          
+          window.Lately && Lately.init({ target: '.datetime' });
+      });
+    });
+</script>
+<h4 id="主题集成-1">主题集成</h4>
+<ul>
+<li>把 <a href="https://github.com/lmm214/immmmm/blob/master/themes/hello-friend/layouts/shortcodes/memos.html" target="_blank" rel="noopener nofollow noreferrer" >memos.html</a> 另存为 html 修改第 5 行 <code>bbUrl</code> 网址和参数：</li>
+</ul>
+<pre tabindex="0"><code>var bbUrl = &#34;https://me.edui.fun/api/memo?creatorId=101&amp;rowStatus=NORMAL&amp;limit=5&#34;
+</code></pre><ul>
+<li>之后丢入主题 <code>/layouts/shortcodes/</code> 内；</li>
+<li>调用短代码如下：</li>
+</ul>
+<pre tabindex="0"><code>\{\{&lt; memos &gt;\}\}
+</code></pre>]]></content>
+            
+                 
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://immmmm.com/tags/%E6%8A%98%E8%85%BE" term="%E6%8A%98%E8%85%BE" label="折腾" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[Hugo 「近期」短代码（基于 Doumark Actions）]]></title>
+            <link href="https://immmmm.com/hugo-shortcodes-recently-by-douban/" rel="alternate" type="text/html" />
+            
+                <id>https://immmmm.com/hugo-shortcodes-recently-by-douban/</id>
+            
+            
+            <published>2023-02-02T13:07:42+08:00</published>
+            <updated>2023-02-02T13:07:42+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[<p>观影和阅读记录页面，无论用什么博客程序，总会想办法找 API 造轮子来实现。目前使用的是 <a href="https://github.com/lizheming/doumark-action" target="_blank" rel="noopener nofollow noreferrer" >Douban sync for GitHub Actions</a> 方法，它会自动把“豆瓣观影/阅读/音乐记录同步”存为本地文件，安逸！</p>
+<p>既然本地已经有一份自己的观影和阅读数据文件 <code>data/douban/movie.csv</code> 和  <code>data/douban/book.csv</code> ，除了做成两个页面，这些数据还能怎么用呢？</p>
+<p>近期一直盯着 <code>getJSON</code> 函数和 Hugo 短代码做文章，那，继续折腾呗！</p>
+<h3 id="功能介绍">功能介绍</h3>
+<p>与完整记录页面的区别是，做成了短代码形式，同时限制了数量，方便文章中调用，比如在「关于」页面中展示。</p>
+<h3 id="主题集成">主题集成</h3>
+<ul>
+<li>部署 <a href="https://imnerd.org/doumark.html" target="_blank" rel="noopener nofollow noreferrer" >豆瓣书影音同步 GitHub Action</a>；</li>
+<li>把 <a href="https://github.com/lmm214/immmmm/blob/master/themes/hello-friend/layouts/shortcodes/books.html" target="_blank" rel="noopener nofollow noreferrer" >books.html</a> 和 <a href="https://github.com/lmm214/immmmm/blob/master/themes/hello-friend/layouts/shortcodes/movies.html" target="_blank" rel="noopener nofollow noreferrer" >movies.html</a> 另存为 html 之后丢入主题 <code>/layouts/shortcodes/</code> 内；</li>
+<li>调用代码如下，默认是 4条数据。当然，也可手动指定，在短代码里加上数字（注意：直接数字，无引号）：</li>
+</ul>
+<pre tabindex="0"><code>\{\{&lt; movies &gt;\}\}
+\{\{&lt; books &gt;\}\}
+\{\{&lt; movies 8&gt;\}\}
+\{\{&lt; books 8&gt;\}\}
+</code></pre><h3 id="效果演示">效果演示</h3>
+<h4 id="默认-4-条">默认 4 条</h4>
+
+
+
+<div class="sc-ksluID gFnzgG">
+    <div class="sc-dIsUp fIuTG">
+        
+        
+        
+        
+            <div class="sc-gKAaRy dfdORB">
+                <div class="sc-hKFxyN HPRth">
+                    <div class="lazyload-wrapper ">
+                        <img class="avatar" src="https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2884876907.jpg" referrer-policy="no-referrer" loading="lazy" alt="黑暗荣耀"  title="" width="150" height="220">
+                    </div>
+                </div>
+            <div class="sc-fujyAs eysHZq">
+              <span class="sc-jSFjdj jcTaHb">
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+              </span>
+              <span class="sc-pNWdM iibjPt">8.9</span>
+            </div>
+            <div class="sc-iCoGMd kMthTr"><a rel="link" href="https://movie.douban.com/subject/35314632/" target="_blank">黑暗荣耀</a></div>
+        </div>
+        
+        
+        
+            <div class="sc-gKAaRy dfdORB">
+                <div class="sc-hKFxyN HPRth">
+                    <div class="lazyload-wrapper ">
+                        <img class="avatar" src="https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2885130077.jpg" referrer-policy="no-referrer" loading="lazy" alt="中国奇谭"  title="当代寓言" width="150" height="220">
+                    </div>
+                </div>
+            <div class="sc-fujyAs eysHZq">
+              <span class="sc-jSFjdj jcTaHb">
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+              </span>
+              <span class="sc-pNWdM iibjPt">9.3</span>
+            </div>
+            <div class="sc-iCoGMd kMthTr"><a rel="link" href="https://movie.douban.com/subject/35674355/" target="_blank">中国奇谭</a></div>
+        </div>
+        
+        
+        
+            <div class="sc-gKAaRy dfdORB">
+                <div class="sc-hKFxyN HPRth">
+                    <div class="lazyload-wrapper ">
+                        <img class="avatar" src="https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2885944827.jpg" referrer-policy="no-referrer" loading="lazy" alt="流浪地球2"  title="抛开主题，为特效打工人打满分" width="150" height="220">
+                    </div>
+                </div>
+            <div class="sc-fujyAs eysHZq">
+              <span class="sc-jSFjdj jcTaHb">
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+              </span>
+              <span class="sc-pNWdM iibjPt">8.2</span>
+            </div>
+            <div class="sc-iCoGMd kMthTr"><a rel="link" href="https://movie.douban.com/subject/35267208/" target="_blank">流浪地球2</a></div>
+        </div>
+        
+        
+        
+            <div class="sc-gKAaRy dfdORB">
+                <div class="sc-hKFxyN HPRth">
+                    <div class="lazyload-wrapper ">
+                        <img class="avatar" src="https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2886376181.jpg" referrer-policy="no-referrer" loading="lazy" alt="狂飙"  title="" width="150" height="220">
+                    </div>
+                </div>
+            <div class="sc-fujyAs eysHZq">
+              <span class="sc-jSFjdj jcTaHb">
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+              </span>
+              <span class="sc-pNWdM iibjPt">8.7</span>
+            </div>
+            <div class="sc-iCoGMd kMthTr"><a rel="link" href="https://movie.douban.com/subject/35465232/" target="_blank">狂飙</a></div>
+        </div>
+        
+        
+    </div>
+</div>
+<h4 id="指定-8-条">指定 8 条</h4>
+
+
+
+    
+
+<div class="sc-ksluID gFnzgG">
+    <div class="sc-dIsUp fIuTG">
+        
+        
+        
+        
+            <div class="sc-gKAaRy dfdORB">
+                <div class="sc-hKFxyN HPRth">
+                    <div class="lazyload-wrapper ">
+                        <img class="avatar" src="https://img2.doubanio.com/view/subject/l/public/s34109032.jpg" referrer-policy="no-referrer" loading="lazy" alt="心中有数"  title="深入浅出，收获颇丰" width="150" height="220">
+                    </div>
+                </div>
+            <div class="sc-fujyAs eysHZq">
+              <span class="sc-jSFjdj jcTaHb">
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+              </span>
+              <span class="sc-pNWdM iibjPt">8.1</span>
+            </div>
+            <div class="sc-iCoGMd kMthTr"><a rel="link" href="https://book.douban.com/subject/35749693/" target="_blank">心中有数</a></div>
+        </div>
+        
+        
+        
+            <div class="sc-gKAaRy dfdORB">
+                <div class="sc-hKFxyN HPRth">
+                    <div class="lazyload-wrapper ">
+                        <img class="avatar" src="https://img1.doubanio.com/view/subject/l/public/s34370827.jpg" referrer-policy="no-referrer" loading="lazy" alt="读库2206"  title="长了见识，但不够有趣" width="150" height="220">
+                    </div>
+                </div>
+            <div class="sc-fujyAs eysHZq">
+              <span class="sc-jSFjdj jcTaHb">
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi gaztka">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+              </span>
+              <span class="sc-pNWdM iibjPt">7.2</span>
+            </div>
+            <div class="sc-iCoGMd kMthTr"><a rel="link" href="https://book.douban.com/subject/36182329/" target="_blank">读库2206</a></div>
+        </div>
+        
+        
+        
+            <div class="sc-gKAaRy dfdORB">
+                <div class="sc-hKFxyN HPRth">
+                    <div class="lazyload-wrapper ">
+                        <img class="avatar" src="https://img1.doubanio.com/view/subject/l/public/s34246527.jpg" referrer-policy="no-referrer" loading="lazy" alt="毫无意义的工作"  title="让工作本身成了我们的目标和一切意义之所在。" width="150" height="220">
+                    </div>
+                </div>
+            <div class="sc-fujyAs eysHZq">
+              <span class="sc-jSFjdj jcTaHb">
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi gaztka">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+              </span>
+              <span class="sc-pNWdM iibjPt">7.8</span>
+            </div>
+            <div class="sc-iCoGMd kMthTr"><a rel="link" href="https://book.douban.com/subject/35929434/" target="_blank">毫无意义的工作</a></div>
+        </div>
+        
+        
+        
+            <div class="sc-gKAaRy dfdORB">
+                <div class="sc-hKFxyN HPRth">
+                    <div class="lazyload-wrapper ">
+                        <img class="avatar" src="https://img2.doubanio.com/view/subject/l/public/s33946803.jpg" referrer-policy="no-referrer" loading="lazy" alt="一日三秋"  title="" width="150" height="220">
+                    </div>
+                </div>
+            <div class="sc-fujyAs eysHZq">
+              <span class="sc-jSFjdj jcTaHb">
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+              </span>
+              <span class="sc-pNWdM iibjPt">8.4</span>
+            </div>
+            <div class="sc-iCoGMd kMthTr"><a rel="link" href="https://book.douban.com/subject/35496106/" target="_blank">一日三秋</a></div>
+        </div>
+        
+        
+        
+            <div class="sc-gKAaRy dfdORB">
+                <div class="sc-hKFxyN HPRth">
+                    <div class="lazyload-wrapper ">
+                        <img class="avatar" src="https://img1.doubanio.com/view/subject/l/public/s34146280.jpg" referrer-policy="no-referrer" loading="lazy" alt="《重新定义父母》"  title="少了极端的案例，多了家常的分析" width="150" height="220">
+                    </div>
+                </div>
+            <div class="sc-fujyAs eysHZq">
+              <span class="sc-jSFjdj jcTaHb">
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+              </span>
+              <span class="sc-pNWdM iibjPt">9</span>
+            </div>
+            <div class="sc-iCoGMd kMthTr"><a rel="link" href="https://book.douban.com/subject/35797187/" target="_blank">《重新定义父母》</a></div>
+        </div>
+        
+        
+        
+            <div class="sc-gKAaRy dfdORB">
+                <div class="sc-hKFxyN HPRth">
+                    <div class="lazyload-wrapper ">
+                        <img class="avatar" src="https://img2.doubanio.com/view/subject/l/public/s34192061.jpg" referrer-policy="no-referrer" loading="lazy" alt="可能性的艺术"  title="终于能看到一丝可能" width="150" height="220">
+                    </div>
+                </div>
+            <div class="sc-fujyAs eysHZq">
+              <span class="sc-jSFjdj jcTaHb">
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+              </span>
+              <span class="sc-pNWdM iibjPt">9.1</span>
+            </div>
+            <div class="sc-iCoGMd kMthTr"><a rel="link" href="https://book.douban.com/subject/35819419/" target="_blank">可能性的艺术</a></div>
+        </div>
+        
+        
+        
+            <div class="sc-gKAaRy dfdORB">
+                <div class="sc-hKFxyN HPRth">
+                    <div class="lazyload-wrapper ">
+                        <img class="avatar" src="https://img9.doubanio.com/view/subject/l/public/s34116656.jpg" referrer-policy="no-referrer" loading="lazy" alt="关羽：由凡入神的历史与想象"  title="细看了三分之一，发现这是一部严谨的学术著作，关于宗教信仰。后，翻阅结束。" width="150" height="220">
+                    </div>
+                </div>
+            <div class="sc-fujyAs eysHZq">
+              <span class="sc-jSFjdj jcTaHb">
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+              </span>
+              <span class="sc-pNWdM iibjPt">8.3</span>
+            </div>
+            <div class="sc-iCoGMd kMthTr"><a rel="link" href="https://book.douban.com/subject/35763765/" target="_blank">关羽：由凡入神的历史与想象</a></div>
+        </div>
+        
+        
+        
+            <div class="sc-gKAaRy dfdORB">
+                <div class="sc-hKFxyN HPRth">
+                    <div class="lazyload-wrapper ">
+                        <img class="avatar" src="https://img1.doubanio.com/view/subject/l/public/s34277798.jpg" referrer-policy="no-referrer" loading="lazy" alt="向心城市"  title="真是奇迹" width="150" height="220">
+                    </div>
+                </div>
+            <div class="sc-fujyAs eysHZq">
+              <span class="sc-jSFjdj jcTaHb">
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+                <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi lhtmRw">
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
+                </svg>
+                
+              </span>
+              <span class="sc-pNWdM iibjPt">8.1</span>
+            </div>
+            <div class="sc-iCoGMd kMthTr"><a rel="link" href="https://book.douban.com/subject/36035486/" target="_blank">向心城市</a></div>
+        </div>
+        
+        
+    </div>
+</div>]]></content>
+            
+                 
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://immmmm.com/tags/%E6%8A%98%E8%85%BE" term="%E6%8A%98%E8%85%BE" label="折腾" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[Hugo 游戏卡片短代码]]></title>
+            <link href="https://immmmm.com/hugo-shortcodes-game/" rel="alternate" type="text/html" />
+            
+                <id>https://immmmm.com/hugo-shortcodes-game/</id>
+            
+            
+            <published>2023-02-01T09:51:09+08:00</published>
+            <updated>2023-02-01T09:51:09+08:00</updated>
+            
+            
+            <content type="html"><![CDATA[<div class="post-preview game movie">
+    <img referrer-policy="no-referrer" loading="lazy" class="post-preview--image" src="https://alioss.yystv.cn/games/dc0e0df412d7d39d7e76e681959b0199.jpg" />
+    <div class="post-preview--meta">
+        <div class="post-preview--middle">
+            <h4 class="post-preview--title"><a target="_blank" href="https://www.yystv.cn/g/36">塞尔达传说：旷野之息</a></h4>
+            <div class="rating">
+                <div class="rating-star allstar10"></div>
+                <div class="rating-average">9.7</div>
+                <div class="release-time"></div>
+            </div>
+            <time class="post-preview--date">
+                发售时间: 2017-03-03 / 产商：   任天堂  
+                <span class="post-preview--tags">
+                    
+                    <span class="post-preview--tag">冒险</span>
+                    
+                    <span class="post-preview--tag">动作</span>
+                    
+                </span>
+            </time>
+            <section style="max-height: 75px; overflow: hidden" class="post-preview--excerpt">以广阔的世界为舞台，无论去哪里、做什么，冒险的一切由你决定。 狩猎野生动物过活？ 去消灭魔物？ 逛尽各处景点？ 奔跑、游泳、滑翔、攀登，能在广阔无垠的世界中享受自由自在的冒险。 Nintendo Switch的话，可以在家里的电视上仔细游玩后继续外出游玩，就连游戏方式都自由自在。
+
+【故事大纲】
+
+被称为大灾厄的灾害发生了，海拉鲁王国被灭亡了……
+
+100年后，主角林克从地下遗迹的长眠中苏醒，在不可思议的声音引导下踏上大地。</section>
+        </div>
+    </div>
+</div>
+
+<p>效果如上 ⬆️</p>
+<p>轮子来自于 @JoeZhao 同学的 <a href="https://fun2ex.com/posts/game-info-show-api/" target="_blank" rel="noopener nofollow noreferrer" >《在 hugo 中插入游戏信息卡片》</a> ，👍</p>
+<h3 id="hugo-主题集成">Hugo 主题集成</h3>
+<p>把 <a href="https://github.com/lmm214/immmmm/blob/master/themes/hello-friend/layouts/shortcodes/game.html" target="_blank" rel="noopener nofollow noreferrer" >game.html</a> 另存为 html 之后丢入主题 <code>/layouts/shortcodes/</code> 内。</p>
+<p>文章内如下插入即可（需去掉反斜杠，链接末尾无斜杠）：</p>
+<pre tabindex="0"><code>\{\{&lt; game &#34;https://www.yystv.cn/g/36&#34;&gt;\}\}
+</code></pre><p>相关 css 见这里 <a href="https://github.com/lmm214/immmmm/blob/master/themes/hello-friend/static/theme-20230123.css" target="_blank" rel="noopener nofollow noreferrer" >theme-20230123.css</a> ，搜索 <code>post-preview</code>。</p>
+<h3 id="说明">说明</h3>
+<p>Hugo  <code>getJSON</code> 函数获取远程 API 数据可能失败，导致整个站点构建失败，所以可以在 <code>config.toml</code> 加一句：</p>
+<pre tabindex="0"><code>ignoreErrors = [&#34;error-remote-getjson&#34;]
+</code></pre>]]></content>
+            
+                 
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://immmmm.com/tags/%E6%8A%98%E8%85%BE" term="%E6%8A%98%E8%85%BE" label="折腾" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>
