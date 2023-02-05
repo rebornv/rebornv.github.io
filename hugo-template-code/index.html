@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+      <title>Hugo 主题常用的代码片段 :: chuan</title>
+    
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta charset="UTF-8"/>
+<meta name="renderer" content="webkit"/>
+<meta name="force-rendering" content="webkit"/>
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+<script>if ( false || (!!window.MSInputMethodContext && !!document.documentMode)) document.write('\x3Cscript id="_iealwn_js" data-outver="11" src="https://support.dmeng.net/ie-alert-warning/latest.js">\x3C/script>'); </script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="description" content="全站 Site 网址：.Site.BaseURL
+标题：.Site.Title，示例：
+&amp;lt;a href=&amp;#34;{{ $.Site.BaseURL }}&amp;#34;&amp;gt;{{ $.Site.Title }}&amp;lt;/a&amp;gt; 副标题：.Site.Params.description
+关键词：.Site.Params.keywords
+头部菜单：
+{{ range $.Site.Menus.main }} &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;{{ .URL }}&amp;#34;&amp;gt;{{ .Name }}&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; {{ end }} "/>
+<meta name="keywords" content=""/>
+<link href="/atom.xml" title="chuan" type="application/rss+xml">
+<link rel="canonical" href="https://hirakawa.top/hugo-template-code/" />
+<link rel="stylesheet" href="//cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.6.0/lxgwwenkaiscreen.css" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="/theme-20230202.css">
+<link rel="shortcut icon" href="https://hirakawa.top/favicon.ico">
+
+<link rel="apple-touch-icon" href="https://hirakawa.top/favicon.ico">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="chuan">
+<link rel="bookmark" href="https://hirakawa.top/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://hirakawa.top/favicon.ico" >
+
+
+<meta property="og:title" content="Hugo 主题常用的代码片段" />
+<meta property="og:description" content="全站 Site
+网址：.Site.BaseURL
+标题：.Site.Title，示例：
+&lt;a href=&#34;{{ $.Site.BaseURL }}&#34;&gt;{{ $.Site.Title }}&lt;/a&gt;
+副标题：.Site.Params.description
+关键词：.Site.Params.keywords
+头部菜单：
+{{ range $.Site.Menus.main }}
+	&lt;li&gt;&lt;a href=&#34;{{ .URL }}&#34;&gt;{{ .Name }}&lt;/a&gt;&lt;/li&gt;
+{{ end }}
+" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://hirakawa.top/hugo-template-code/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-04-01T09:46:00+08:00" />
+<meta property="article:modified_time" content="2020-04-01T09:46:00+08:00" />
+
+
+
+<script async defer data-website-id="c27bd84b-02a3-4c3f-a168-0d7fadec9c74" src="https://u.edui.fun/lmmtj.js"></script>
+
+    
+  <link rel="prefetch" href="https://hirakawa.top/use-visual-studio-code/">
+  <link rel="prefetch" href="https://hirakawa.top/hugo-add-breadcrumb/">
+
+  </head>
+  <body class="dark">
+    <script>var getTheme = localStorage.getItem("theme") || '';if(getTheme == 'dark'){document.body.classList.add("dark")}else if(getTheme == 'light'){document.body.classList.remove("dark")}</script>
+    <div class="container">
+      <header class="header">
+  <span class="header__inner">
+    <a href="https://hirakawa.top" class="logo" style="text-decoration: none;">
+  
+    <span class="logo__text">chuan</span>
+    <span class="logo__cursor"></span>
+  
+</a>
+
+    <span class="header__right">
+      
+        <nav class="menu hidden">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/bb/">哔哔</a></li>
+        
+      
+        
+          <li><a href="/movies/">观影</a></li>
+        
+      
+        
+          <li><a href="/books/">阅读</a></li>
+        
+      
+        
+          <li><a href="/about/">关于</a></li>
+        
+      
+        
+          <li><a href="/album/">相册</a></li>
+        
+      
+      
+        <ul class="menu__sub-inner">
+          <li class="menu__sub-inner-more-trigger">
+            更多
+            <span class="menu__sub-inner-more-trigger-icon"><svg xmlns="http://www.w3.org/2000/svg" class="greater-icon" viewBox="0 0 44 44">
+  <path fill="none" d="M15 8l14.729 14.382L15 35.367"/>
+</svg>
+</span>
+          </li>
+
+          <ul class="menu__sub-inner-more hidden">
+            
+              
+                <li><a href="/archives/">归档</a></li>
+              
+            
+              
+                <li><a href=""></a></li>
+              
+            
+              
+                <li><a href="https://edui123.com/">导航</a></li>
+              
+            
+          </ul>
+        </ul>
+      
+    
+    <li><a href="javascript:;" onclick="randomPost()" title="随机访问一篇文章"><svg t="1660103436159" class="icon search-box-icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1184" width="32" height="32"><path d="M421.376 481.28s117.248 24.576 175.104-8.704c0 0-89.6 70.144-89.6 166.4 0.512-0.512-8.192-121.344-85.504-157.696zM438.784 969.216s68.608 6.656 68.608-80.896c0 0 3.072 88.576 65.024 78.336 0 0.512-50.688 22.016-133.632 2.56zM161.28 238.08s-30.208 65.536 11.264 91.648c0 0-67.072-17.408-81.408 37.376 0 0 8.704-82.944 70.144-129.024zM857.6 227.328s49.152 50.176 1.024 81.408c0 0 58.88-18.432 66.56 36.352 0 0 5.12-69.632-67.584-117.76z" p-id="1185"></path><path d="M443.392 970.752c-5.632 0-10.752-1.024-15.36-3.072l-270.848-157.184-1.536-1.024s-1.024-1.024-4.608-2.56c-51.2-29.184-62.976-94.208-65.536-120.832V386.56c0-3.072 0.512-7.168 1.024-11.264l0.512-3.584 1.024-2.56c19.456-50.688 76.8-51.2 103.936-44.032l-1.536 5.632 4.096-6.144L476.16 486.4l18.944 37.888c20.992 36.864 29.184 77.824 32.768 99.84v258.048c-4.608 56.32-36.864 76.288-55.808 82.944-1.024 0.512-15.36 5.632-28.672 5.632z m-262.144-196.096l263.168 152.576c12.288-0.512 36.864-6.656 40.448-48.128v-250.368c-4.608-31.744-20.992-103.936-72.192-128L322.56 445.44l1.536 3.072-142.336-82.432c-2.048-0.512-40.448-9.216-52.736 15.872-0.512 2.56-0.512 4.608-0.512 6.144v294.4c1.536 16.896 9.728 67.072 43.52 86.528 3.584 2.048 6.656 4.096 9.216 5.632z" p-id="1186"></path><path d="M837.632 212.992c6.656 4.096 12.8 7.168 18.432 10.752l1.536 1.024 1.536 1.536c5.12 4.096 10.752 9.216 16.384 15.36 6.144 11.776 5.632 33.28 4.608 49.152-1.024 12.288-6.656 30.208-26.624 44.544l-1.024 0.512-247.808 156.672c-26.624 14.336-62.976 18.432-96.256 18.432-40.96 0-77.824-6.656-89.088-8.704l-3.072-0.512-245.248-142.336c-39.424-29.696-28.16-85.504-15.36-113.664l2.56-6.144 263.68-166.912c29.184-14.336 104.448-43.008 173.056-1.024 3.584 2.56 58.368 34.304 119.296 69.632M431.616 460.8c40.448 7.168 114.176 13.824 152.576-6.144l244.736-155.136c7.168-5.632 8.192-10.24 8.704-12.8 1.024-11.264-9.728-26.624-15.36-32.768-55.808-32.256-243.712-141.312-250.368-145.408-49.664-30.72-107.008-9.216-130.048 2.56L192.512 268.8c-4.096 12.288-12.288 42.496 3.584 55.808l235.52 136.192z" p-id="1187"></path><path d="M831.488 299.008c4.096-1.024 38.4-11.264 66.048 6.144 7.168 4.608 17.92 11.776 24.064 24.576 1.024 5.632 4.096 10.752 4.608 16.896v2.048l-1.024 323.072c-5.12 35.328-22.528 91.648-77.312 125.44l-5.12 3.584h-1.024l-262.144 165.888-4.608 0.512c-4.096 0.512-8.704 1.024-12.8 1.024-15.872 0-30.208-5.12-41.984-14.848-24.576-20.48-32.768-55.808-35.328-73.728l-1.024-252.928h1.536c6.144-96.768 88.576-164.864 96.768-171.008l-0.512-0.512L829.44 299.52m-301.056 567.808c0.512 10.24 5.12 41.472 19.968 53.76 3.072 2.56 7.68 5.632 16.384 5.12l264.704-167.936c56.32-38.4 53.76-115.712 53.76-116.224l-0.512-32.256 1.024-250.368h-0.512c-1.536-12.8-7.168-16.384-8.704-17.408-8.704-5.632-23.552-3.072-28.672-2.048l-235.52 148.992c-1.024 0.512-80.896 65.024-80.896 149.504h-1.536l0.512 228.864zM435.2 264.192c0 27.648 31.744 50.176 71.168 50.176s71.168-22.528 71.168-50.176-31.744-50.176-71.168-50.176S435.2 236.544 435.2 264.192z" p-id="1188"></path><path d="M663.552 782.848c0 30.72-22.528 67.072-49.664 80.384-27.648 13.824-50.176-0.512-50.176-31.232s22.528-67.072 50.176-80.384c27.136-13.824 49.664 0 49.664 31.232zM760.32 602.624c0 30.72-22.528 67.072-49.664 80.384-27.648 13.824-49.664-0.512-49.664-31.232s22.528-67.072 49.664-80.384c27.136-13.824 49.664 0.512 49.664 31.232zM867.84 428.032c0 30.72-22.528 67.072-49.664 80.384-27.648 13.824-50.176-0.512-50.176-31.232s22.528-67.072 50.176-80.384c27.136-13.824 49.664 0 49.664 31.232zM270.848 538.112c0 30.72-22.016 41.984-48.64 24.576-27.136-16.896-48.64-55.808-48.64-86.528 0-30.72 22.016-41.984 48.64-24.576 26.624 16.896 48.64 55.808 48.64 86.528zM432.128 823.296c0 30.72-22.016 41.984-48.64 24.576-26.624-17.408-48.64-55.808-48.64-86.528 0-30.72 22.016-41.984 48.64-24.576 26.624 16.896 48.64 55.808 48.64 86.528z" p-id="1189"></path></svg></a></li>
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/bb/">哔哔</a></li>
+      
+    
+      
+        <li><a href="/movies/">观影</a></li>
+      
+    
+      
+        <li><a href="/books/">阅读</a></li>
+      
+    
+      
+        <li><a href="/about/">关于</a></li>
+      
+    
+      
+        <li><a href="/album/">相册</a></li>
+      
+    
+      
+        <li><a href="/archives/">归档</a></li>
+      
+    
+      
+        <li><a href=""></a></li>
+      
+    
+      
+        <li><a href="https://edui123.com/">导航</a></li>
+      
+    
+  </ul>
+</nav>
+
+        <span class="menu-trigger hidden">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M0 0h24v24H0z" fill="none"/>
+            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+          </svg>
+        </span>
+      
+      <span class="theme-toggle">
+        <svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+</svg>
+
+      </span>
+    </span>
+  </span>
+</header>
+
+
+
+      <div class="content">
+        
+  
+  
+  
+  
+  <div class="post posts\coding\hugo-template-code.md">
+    <div  class="breadcrumb">
+  
+
+  
+
+  
+
+  
+
+<li>
+  <a href="https://hirakawa.top/">首页</a>
+</li>
+
+
+<li>
+  <a href="https://hirakawa.top/posts/">文章</a>
+</li>
+
+
+<li>
+  <a href="https://hirakawa.top/posts/coding/">折腾</a>
+</li>
+
+
+<li class="active">
+  <a href="https://hirakawa.top/hugo-template-code/">Hugo 主题常用的代码片段</a>
+</li>
+
+</div>
+
+
+  
+    <h2 class="post-title"><a href="https://hirakawa.top/hugo-template-code/">Hugo 主题常用的代码片段</a></h2>
+    <div class="post-meta">
+      
+        <span class="post-date">2020-04-01 09:46:00</span><span> / <span id="twikoo_visitors">0</span> 阅读</span>
+        
+          
+        
+      
+    </div>
+    
+  
+    <div class="post-content">
+      
+      <h3 id="全站-site">全站 Site</h3>
+<p>网址：<code>.Site.BaseURL</code></p>
+<p>标题：<code>.Site.Title</code>，示例：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ $.Site.BaseURL }}&#34;</span>&gt;{{ $.Site.Title }}&lt;/<span style="color:#f92672">a</span>&gt;
+</span></span></code></pre></div><p>副标题：<code>.Site.Params.description</code></p>
+<p>关键词：<code>.Site.Params.keywords</code></p>
+<p>头部菜单：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{ range $.Site.Menus.main }}
+</span></span><span style="display:flex;"><span>	&lt;<span style="color:#f92672">li</span>&gt;&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .URL }}&#34;</span>&gt;{{ .Name }}&lt;/<span style="color:#f92672">a</span>&gt;&lt;/<span style="color:#f92672">li</span>&gt;
+</span></span><span style="display:flex;"><span>{{ end }}
+</span></span></code></pre></div><p><code>config.toml</code>配置示例：</p>
+<pre tabindex="0"><code>baseURL  =  &#34;https://immmmm.com&#34;
+title  =  &#34;木木木木木&#34;
+[params]
+	description = &#34;不问明天，悠然浪费&#34;
+	keywords = &#34;博客、主题、折腾、生活&#34;
+[menu]
+	[[menu.main]]
+		name=&#34;首页&#34;
+		url=&#34;/&#34;
+		weight=&#34;1&#34;
+	[[menu.main]]
+		name=&#34;关于&#34;
+		url=&#34;/about&#34;
+		weight=&#34;2&#34;
+</code></pre><p>全站标签列表及文章数量：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{- range $name, $taxonomy := .Site.Taxonomies.tags -}}
+</span></span><span style="display:flex;"><span>	&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;/tags/{{ $name | urlize }}&#34;</span>&gt;#{{ $name }}&lt;<span style="color:#f92672">small</span>&gt;({{ .Count }})&lt;/<span style="color:#f92672">small</span>&gt;&lt;/<span style="color:#f92672">a</span>&gt;
+</span></span><span style="display:flex;"><span>{{- end -}}
+</span></span></code></pre></div><p>全站标签数：</p>
+<pre tabindex="0"><code>{{ len .Site.Taxonomies.tags.ByCount }}
+</code></pre><p>全站文章数：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>共 {{ len (where .Site.RegularPages &#34;Section&#34; &#34;posts&#34;) }} 篇日志
+</span></span></code></pre></div><h3 id="文章列表-list">文章列表 List</h3>
+<p>文章摘要：<code>.Summary</code> 文章列表会显示 <code>&lt;!--more--&gt;</code> 前的内容或自动截断。</p>
+<pre tabindex="0"><code>{{ .Summary | plainify }}
+</code></pre><p><code>config.toml</code>配置阶段字符，默认 70 个：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>summaryLength = 140
+</span></span></code></pre></div><p>截断判断：<code>.Truncated</code> 如果有 more 标签，则 true，显示“阅读全文”字样。</p>
+<p>指定 <code>content/posts</code> 为文章内容，且自动截断：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{  $paginator := .Paginate (where .Site.RegularPages &#34;Type&#34; &#34;posts&#34;) }}
+</span></span><span style="display:flex;"><span>{{ range $paginator.Pages }}
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">article</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">h1</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-title&#34;</span>&gt;&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Permalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;&lt;/<span style="color:#f92672">h1</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">time</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-date&#34;</span>&gt;{{ .Date.Format &#34;2006-01-02T15:04:05&#34; }}&lt;/<span style="color:#f92672">time</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-content&#34;</span>&gt;
+</span></span><span style="display:flex;"><span> 	 {{ .Summary }}
+</span></span><span style="display:flex;"><span>   &lt;/<span style="color:#f92672">div</span>&gt;
+</span></span><span style="display:flex;"><span>  {{ if .Truncated }}
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;read-more&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Permalink }}&#34;</span>&gt;阅读全文…&lt;/<span style="color:#f92672">a</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;/<span style="color:#f92672">div</span>&gt;
+</span></span><span style="display:flex;"><span>  {{ end }}
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">article</span>&gt;
+</span></span><span style="display:flex;"><span>{{- end }}
+</span></span></code></pre></div><p>神奇的日期格式化：<code>&quot;2006-01-02 15:04:05&quot;</code> 表示显示年月日时分秒</p>
+<p>文章列表分页：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;pagination&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>  {{ if .Paginator.HasPrev }}
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Paginator.Prev.URL }}&#34;</span>&gt;上一页&lt;/<span style="color:#f92672">a</span>&gt;
+</span></span><span style="display:flex;"><span>  {{ end }}
+</span></span><span style="display:flex;"><span>  {{ if .Paginator.HasNext }}
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Paginator.Next.URL }}&#34;</span>&gt;下一页&lt;/<span style="color:#f92672">a</span>&gt;
+</span></span><span style="display:flex;"><span>  {{ end }}
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">div</span>&gt;
+</span></span></code></pre></div><h3 id="文章-single">文章 Single</h3>
+<p>标题、链接、时间，同上。</p>
+<p>全文内容：<code>.Content</code></p>
+<p>文字数：<code>.WordCount</code>，配合<code>config.toml</code>中文统计更准确：</p>
+<pre tabindex="0"><code>hasCJKLanguage = true
+</code></pre><p>阅读时间：<code>.ReadingTime</code>，示例：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>约{{ .ReadingTime }}分钟读完
+</span></span></code></pre></div><p>分类 <code>.Params.categories</code>
+标签 <code>.Params.tags</code>，示例：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{ if .Params.tags }}
+</span></span><span style="display:flex;"><span>	&lt;<span style="color:#f92672">span</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-tags&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>	{{ range .Params.tags }}
+</span></span><span style="display:flex;"><span>		#&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ (urlize (printf &#34;</span><span style="color:#a6e22e">tags</span><span style="color:#960050;background-color:#1e0010">/%</span><span style="color:#a6e22e">s</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">.</span> <span style="color:#960050;background-color:#1e0010">))</span> <span style="color:#960050;background-color:#1e0010">|</span> <span style="color:#a6e22e">absURL</span> <span style="color:#960050;background-color:#1e0010">}}/&#34;</span>&gt;{{ . }}&lt;/<span style="color:#f92672">a</span>&gt;&amp;nbsp;
+</span></span><span style="display:flex;"><span>	{{ end }}
+</span></span><span style="display:flex;"><span>	&lt;/<span style="color:#f92672">span</span>&gt;
+</span></span><span style="display:flex;"><span>{{ end }}
+</span></span></code></pre></div><p>上、下文章链接标题，示例：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;pagination&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>	{{ if .NextInSection }}
+</span></span><span style="display:flex;"><span>		&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .NextInSection.Permalink }}&#34;</span>&gt;{{ .NextInSection.Title }}&lt;/<span style="color:#f92672">a</span>&gt;
+</span></span><span style="display:flex;"><span>	{{ end }}
+</span></span><span style="display:flex;"><span>	{{ if .PrevInSection }}
+</span></span><span style="display:flex;"><span>		&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .PrevInSection.Permalink }}&#34;</span>&gt;{{ .PrevInSection.Title }}&lt;/<span style="color:#f92672">a</span>&gt;
+</span></span><span style="display:flex;"><span>	{{ end }}
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">div</span>&gt;
+</span></span></code></pre></div><h3 id="其他片段">其他片段</h3>
+<p>当前年份，示例：<code>{{ now.Year }}</code></p>
+<p>页面类型：<code>{{ .Section }}</code></p>
+<p>首页判断：</p>
+<pre tabindex="0"><code>{{ if .IsHome }}
+	……
+{{ end }}
+</code></pre><pre tabindex="0"><code>{{ if not .IsHome }}……{{ end }}
+</code></pre><p>定义变量：</p>
+<pre tabindex="0"><code>{{ $address := &#34;123 Main St.&#34; }}
+{{ $address }}
+</code></pre><p>定义模块，如 layouts/_default/baseof.html</p>
+<pre tabindex="0"><code>{{ block &#34;main&#34; . }}
+{{ end }}
+</code></pre><p>layouts/_default/list.html</p>
+<pre tabindex="0"><code>{{ define &#34;main&#34; }}
+  ……
+{{ end }}
+</code></pre><h3 id="短代码-shortcodes">短代码 Shortcodes</h3>
+<p>LoveIt 主题内置数十种短代码：<a href="https://hugoloveit.com/zh-cn/theme-documentation-shortcodes/" target="_blank" rel="noopener nofollow noreferrer" >https://hugoloveit.com/zh-cn/theme-documentation-shortcodes/</a></p>
+<h3 id="未完">未完</h3>
+<p>待更…… 🤷‍♂️</p>
+      
+    </div>
+
+    
+      <span class="post-tags">
+        
+          #<a href="https://hirakawa.top/tags/%E6%8A%98%E8%85%BE/">折腾</a>&nbsp;
+        
+      </span>
+    
+  
+    <div class="clear"></div>
+    
+    
+      
+        <div class="pagination">
+          <div class="pagination__title">
+            
+              <a class="pagination__title-h" href="https://github.com/lmm214/immmmm/edit/master/content/posts/coding/hugo-template-code.md" target="_blank" rel="noopener">阅读更多</a>
+            
+            <hr />
+          </div>
+          <div class="pagination__buttons">
+            
+              <span class="button previous">
+                <a href="https://hirakawa.top/use-visual-studio-code/">
+                  <span class="button__icon">←</span>
+                  <span class="button__text">VS Code 初体验</span>
+                </a>
+              </span>
+            
+            
+              <span class="button next">
+                <a href="https://hirakawa.top/hugo-add-breadcrumb/">
+                  <span class="button__text">Hugo 添加面包屑导航</span>
+                  <span class="button__icon">→</span>
+                </a>
+              </span>
+            
+          </div>
+        </div>
+      
+    
+
+
+    
+        
+<div class="pagination__title">
+  <span class="pagination__title-h">欢迎评论</span>
+  <hr />
+</div>
+  <div id="tcomment"></div>
+  <script src="/twikoo168.js"></script>
+  <script>twikoo.init({ envId: 'https://tk.edui.fun/', el: '#tcomment' })</script>
+    
+
+    </div>
+
+      </div>
+
+      
+        
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+<footer class="footer">
+  <div class="footer__inner">
+    <div class="copyright copyright-font">
+      <span>共 144482 字 <br/> 写完一本 史铁生 的</br>《宿命的写作》了！</span>
+    </div>
+    <a class="dark-wormhole" href="https://www.foreverblog.cn/go.html" target="_blank"> <img src="/wormhole_1.gif" alt="" style="width:auto;height:32px;" title="穿梭虫洞-随机访问十年之约友链博客"> </a>
+    <a class="light-wormhole" href="https://www.foreverblog.cn/go.html" target="_blank" > <img src="/wormhole_3.gif" alt="" style="width:auto;height:32px;" title="穿梭虫洞-随机访问十年之约友链博客"> </a>
+    
+      <div class="copyright">
+        <span>© 2023 Powered by <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> Theme by <a href="https://twitter.com/panr" target="_blank" rel="noopener">Panr</a></span>
+      </div>
+    
+  </div>
+</footer>
+
+<script type="text/javascript" src="/theme-main-1.js"></script>
+<script type="text/javascript" src="/lately.min.js"></script>
+<script type="text/javascript" src="/waterfall.min.js"></script>
+<script type="text/javascript" src="/imgStatus.min.js"></script>
+<script type="text/javascript" src="/view-image.js"></script>
+<script type="text/javascript" src="/theme-lmm-20230123.js"></script>
+<script type="text/javascript" src="/pangu.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    pangu.autoSpacingPage();
+  });
+</script>
+
+
+      
+    </div>
+  </body>
+</html>
